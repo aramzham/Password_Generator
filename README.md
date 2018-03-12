@@ -25,3 +25,9 @@ As a choice, you can run the windows form application:
 ![2](https://cloud.githubusercontent.com/assets/22852258/21854334/c6df5614-d833-11e6-9c4d-b6a45ac7e6da.jpg)
 
 #### 4. Hit the "Copy to clipboard" button and paste it in your password storage
+
+<h2>Keywords</h2>
+<ol type="1">
+  <li>.Net Framework 4.6</li>
+  <li>Visual Studio 2015</li>
+</ol>
